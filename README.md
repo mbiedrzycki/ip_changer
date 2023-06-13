@@ -1,5 +1,5 @@
 # ip_changer
-ip changer for electronics signs
+IP changer for electronics signs
 
 ## General info
 It is used to speed up the production line. When devices have same IP address, it isn't possible to upgrade them, so using that script user can easily change IP address by one click. 
