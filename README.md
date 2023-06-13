@@ -10,6 +10,6 @@ Script connects with devices by SFTP, dowloading configuration file, updating hi
 ## Technologies
 Python 3.9+ with external libraries paramiko, elementpath and tkinter
 
-## Lanuch
+## Launch
 Download project folder and run with python 3.9+ interpreter. 
 
